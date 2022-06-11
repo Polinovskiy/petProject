@@ -1,0 +1,6 @@
+com\mypackage\helpers\HtmlReader.class
+com\mypackage\helpers\Workbook.class
+com\mypackage\model\Detail.class
+com\mypackage\helpers\DetailWorker.class
+com\mypackage\helpers\FileChooser.class
+com\mypackage\Main.class
